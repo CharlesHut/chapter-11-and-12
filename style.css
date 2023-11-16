@@ -1,0 +1,21 @@
+@import url('https://fonts.googleeapis.com/css2?fmaily=roboto:wght@100;300;400&display=swap');
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.abouth1 {
+    text-shadow: 2px #000 black;
+}
+
+.aboutp {
+    background:2px pink; 
+    color: blue;
+    font: 4px;
+}
+
+ 
